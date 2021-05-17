@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Test kernel for ysl by Its_Vixano @ XDA
+kernel.string=Test kernel for daisy by Its_Vixano @ XDA
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ysl
+device.name1=daisy
 supported.versions=
 supported.patchlevels=
 '; } # end properties
