@@ -4,10 +4,12 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=e+ kernel by dereference
+kernel.string=LineageOS kernel by Its_Vixano @ XDA
 do.devicecheck=1
-device.name1=veux
-device.name2=peux
+device.name1=moonstone
+device.name2=sunstone
+device.name3=gemstone
+device.name4=stone
 do.cleanup=1
 '; } # end properties
 
