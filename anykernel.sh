@@ -26,6 +26,7 @@ no_block_display=1;
 # boot install
 split_boot;
 flash_boot;
+flash_dtbo;
 ## end boot install
 
 # vendor_boot shell variables
